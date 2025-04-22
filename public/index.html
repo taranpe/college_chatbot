@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSE Chatbot</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/js/all.min.js" crossorigin="anonymous"></script>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f7fc;
+        }
+        #chatbot-icon {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            background: #007bff;
+            color: white;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            cursor: pointer;
+            font-size: 28px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+        #chat-container {
+            position: fixed;
+            bottom: 80px;
+            right: 20px;
+            width: 350px;
+            height: 500px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+            display: none;
+            flex-direction: column;
+            overflow: hidden;
+        }
+        #chat-header {
+            background: #007bff;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-size: 18px;
+            font-weight: bold;
+            position: relative;
+        }
+        #close-chat {
+            position: absolute;
+            right: 15px;
+            top: 50%;
+            transform: translateY(-50%);
+            cursor: pointer;
+            font-size: 16px;
+            background: none;
+            border: none;
+            color: white;
+        }
+        #chatbox {
+            flex-grow: 1;
+            padding: 12px;
+            overflow-y: auto;
+            background: #f7f7f7;
+            scroll-behavior: smooth;
+        }
+        .user-msg, .bot-msg {
+            padding: 10px;
+            margin: 8px 0;
+            border-radius: 8px;
+            max-width: 80%;
+            font-size: 14px;
+            display: flex;
+            align-items: center;
+        }
+        .user-msg {
+            background: #007bff;
+            color: white;
+            align-self: flex-end;
+        }
+        .bot-msg {
+            background: #e9ecef;
+            color: black;
+            align-self: flex-start;
+            display: flex;
+            align-items: center;
+        }
+        .bot-msg img {
+            width: 30px;
+            height: 30px;
+            border-radius: 50%;
+            margin-right: 10px;
+        }
+        #input-area {
+            display: flex;
+            padding: 12px;
+            background: white;
+            border-top: 1px solid #ddd;
+        }
+        #userInput {
+            flex: 1;
+            padding: 10px;
+            border: 1px solid #007bff;
+            border-radius: 5px;
+        }
+        #sendBtn, #voiceBtn {
+            padding: 10px;
+            margin-left: 10px;
+            border: none;
+            background: #007bff;
+            color: white;
+            cursor: pointer;
+            border-radius: 5px;
+            font-size: 16px;
+            width: 40px;
+            height: 40px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <div id="chatbot-icon" onclick="toggleChat()">💬</div>
+    <div id="chat-container">
+        <div id="chat-header">
+            SmartBot <button id="close-chat" onclick="toggleChat()">✖</button>
+        </div>
+        <div id="chatbox"></div>
+        <div id="input-area">
+            <input type="text" id="userInput" placeholder="Type your message..." onkeypress="handleEnter(event)">
+            <button id="voiceBtn" onclick="startVoiceInput()"><i class="fas fa-microphone"></i></button>
+            <button id="sendBtn" onclick="sendMessage()">➤</button>
+        </div>
+    </div>
+    <script>
+        let chatOpened = false;
+        function toggleChat() {
+            let chat = document.getElementById("chat-container");
+            let chatbox = document.getElementById("chatbox");
+            if (!chatOpened) {
+                chat.style.display = "flex";
+                chatbox.innerHTML = `<div class="bot-msg">
+                                        <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Bot Icon">
+                                        Hello! I'm CSE Chatbot. How can I help?
+                                     </div>`;
+                chatOpened = true;
+            } else {
+                chat.style.display = "none";
+                chatOpened = false;
+            }
+        }
+        async function sendMessage() {
+            let userInput = document.getElementById("userInput").value.trim();
+            let chatbox = document.getElementById("chatbox");
+            if (!userInput) return;
+            chatbox.innerHTML += `<div class="user-msg">${userInput}</div>`;
+            chatbox.scrollTop = chatbox.scrollHeight;
+            document.getElementById("userInput").value = "";
+            try {
+                let response = await fetch("/api/chat", {
+                    method: "POST",
+                    headers: { "Content-Type": "application/json" },
+                    body: JSON.stringify({ question: userInput })
+                });
+                let data = await response.json();
+                let botMessage = `<div class="bot-msg">
+                                    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" alt="Bot Icon">
+                                    ${data.reply}
+                                 </div>`;
+                chatbox.innerHTML += botMessage;
+                chatbox.scrollTop = chatbox.scrollHeight;
+                speakText(data.reply);
+            } catch (error) {
+                chatbox.innerHTML += `<div class="bot-msg" style="color:red;">Error fetching response.</div>`;
+            }
+        }
+        function handleEnter(event) {
+            if (event.key === "Enter") sendMessage();
+        }
+        function startVoiceInput() {
+            const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+            recognition.lang = "en-US";
+            recognition.start();
+            recognition.onresult = (event) => {
+                document.getElementById("userInput").value = event.results[0][0].transcript;
+                sendMessage();
+            };
+        }
+        function speakText(text) {
+            let speech = new SpeechSynthesisUtterance(text);
+            speech.lang = "en-US";
+            speech.rate = 1;
+            speech.pitch = 1;
+            window.speechSynthesis.speak(speech);
+        }
+    </script>
+</body>
+</html>

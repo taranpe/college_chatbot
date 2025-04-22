@@ -1,0 +1,320 @@
+{
+    
+    "who is the hod of cse or computer science and enginerring department or tell me the hod of cse": "The HOD of the CSE department is Dr. Kiran Jyoti.",
+    " the hod of cse department" :"The HOD of the CSE department is Dr. Kiran Jyoti.",
+    "list of faculity details or Please provide the faculty details or information or Can you retrieve the faculty details?": "You can find the faculty details at the following link: <a href='https://gndec.ac.in/faculty/?deptt=15' target='_blank'>Faculty Details</a>",
+    "list of faculity details ": "You can find the faculty details at the following link: <a href='https://gndec.ac.in/faculty/?deptt=15' target='_blank'>Faculty Details</a>",
+
+     "examination portal or What is the examination portal for staff or faculty or Where can I access the exam portal or Exam portal link for faculty??": "You can access the examination portal for staff and faculty at the following link: <a href='https://exam.gndec.ac.in/' target='_blank'>Examination Portal</a>",
+    "Can you provide the list of holidays or Where can I find the holiday calendar or  List of holidays for this year  or list_of_holidays": "You can find the list of holidays at the following link: <a href='https://gndec.ac.in/?q=holidays' target='_blank'>List of Holidays</a>",
+    "List of holidays for this year  or list_of_holidays": "You can find the list of holidays at the following link: <a href='https://gndec.ac.in/?q=holidays' target='_blank'>List of Holidays</a>",
+        
+
+      
+          
+    "how to apply for admission": "You can apply online through our university portal.",
+    "what are the formatting guidelines for major project synopsis?": "<a href='https://cse.gndec.ac.in/sites/default/files/Guidelines-for-Submission-of-Synopsis-of-Major-Project-and-Indutrial-Training-Report-of-Final-Year-CSE-Students.pdf' target='_blank' id='formatted-link'>Click here for Formatting Guidelines of Major Project Synopsis</a>",
+    "what are the formatting guidelines for major project mid term report?": "<a href='https://cse.gndec.ac.in/sites/default/files/Mid%20Term%20File%20Format%20for%20Final%20Year%20Minor%20Project%2803-10-23%29.pdf' target='_blank'id='formatted-link'>Click here for Formatting Guidelines of Major Project Mid-Term Report</a>",
+    "what are the formatting guidelines for major project final report?": "<a href='https://cse.gndec.ac.in/sites/default/files/Mid%20Term%20File%20Format%20for%20Final%20Year%20Minor%20Project%2803-10-23%29.pdf'>Click here for Formatting Guidelines of Major Project Final Report</a>",
+    "what are the formatting guidelines for minor project synopsis?": "<a href='https://cse.gndec.ac.in/sites/default/files/Guidelines%20for%20Submission%20of%20Synopsis%20of%20Minor%20Project.pdf' target='_blank'id='formatted-link'>Click here for Formatting Guidelines of Minor Project Synopsis</a>",
+    "what are the formatting guidelines for minor project mid term report?": "<a href='https://cse.gndec.ac.in/sites/default/files/Mid%20Term%20File%20Format%20for%20Final%20Year%20Minor%20Project%2803-10-23%29.pdf' target='_blank'id='formatted-link'>Click here for Formatting Guidelines of Minor Project Mid-Term Report</a>",
+    "what are the formatting guidelines for minor project final report?": "<a href='https://cse.gndec.ac.in/sites/default/files/Report-format-and-Guidelines.pdf' target='_blank'id='formatted-link'>Click here for Formatting Guidelines of Minor Project Final Report</a>",
+    "where can I find the rubrics for minor project evaluation?": "<a href='https://cse.gndec.ac.in/sites/default/files/rubrics%20%28Major%20Project%20website%29.pdf' target='_blank'id='formatted-link'>Click here for Rubrics for Minor Project Evaluation</a>",
+    "what is the format for the four weeks industrial training report?": "<a href='https://cse.gndec.ac.in/sites/default/files/Four%20Week%20Training%20Format%20%281%29.pdf' target='_blank'id='formatted-link'>Click here for the Format of Four Weeks Industrial Training Report</a>",
+    "what is the format for the six weeks industrial training report?": "<a href='https://cse.gndec.ac.in/sites/default/files/Six%20Week%20Industrial%20Training%20format%20Guidelines_1.pdf' target='_blank'id='formatted-link'>Click here for the Format of Six Weeks Industrial Training Report</a>",
+    "what are the formatting guidelines for the four weeks industrial training report?": "<a href='https://cse.gndec.ac.in/sites/default/files/Four%20Week%20Training%20Format%20%281%29.pdf' target='_blank'id='formatted-link'>Click here for the Formatting Guidelines of Four Weeks Industrial Training Report</a>",
+    "what are the formatting guidelines for the six weeks industrial training report?": "<a href='https://cse.gndec.ac.in/sites/default/files/Six%20Week%20Industrial%20Training%20format%20Guidelines_1.pdf' target='_blank'id='formatted-link'>Click here for the Formatting Guidelines of Six Weeks Industrial Training Report</a>",
+    "where can I find the rubrics for industrial training evaluation?": "<a href='https://cse.gndec.ac.in/sites/default/files/Tr-104%20Rubrics-for-Industrial-Training-Students.pdf' target='_blank'id='formatted-link'>Click here for the Rubrics for Industrial Training Evaluation</a>",
+    "what are the department's vision and mission?": "<a href='https://cse.gndec.ac.in/?q=node/6' target='_blank'id='formatted-link'>Click here to view the Department's Vision and Mission</a>",
+    "Where can I find the faculty and staff details?": "Go to the GNE website, then click on Departments. After that, click on the Computer Science and Engineering department, and then click on Faculty & Staff. You can also directly reach the page by clicking on the following link: <a href='https://cse.gndec.ac.in/?q=node/3' target='_blank'id='formatted-link'>Click here to view Faculty and Staff Details</a>",
+    "How can I contact the department?": "You can contact the Computer Science and Engineering department via email at <a href='mailto:cse@gndec.ac.in'id='formatted-link'>cse@gndec.ac.in</a> or call them at <a href='tel:01615064547'id='formatted-link'>0161-5064547</a>.",
+    "What programs does the department offer?": "The Computer Science and Engineering department offers the following programs:<br><br><b>1. Under Graduate Program</b><br>B.Tech. (Computer Science & Engineering)<br><br><b>2. Post Graduate Program</b><br>M.Tech. (Computer Science & Engineering - Full Time)",
+    "What undergraduate programs are available or offer?": "The Computer Science and Engineering department offers the following programs:<br><br><b>1. Under Graduate Program</b><br>B.Tech. (Computer Science & Engineering)<br><br><b>2. Post Graduate Program</b><br>M.Tech. (Computer Science & Engineering - Full Time)",
+    "What postgraduate programs are available or offer?": "The Computer Science and Engineering department offers the following programs:<br><br><b>1. Under Graduate Program</b><br>B.Tech. (Computer Science & Engineering)<br><br><b>2. Post Graduate Program</b><br>M.Tech. (Computer Science & Engineering - Full Time)",
+    "What is the fee structure for B.Tech program?": "You can find the fee structure for the B.Tech program by visiting the following link:<br><a href='https://admission.gndec.ac.in/Fee_Structure.php' target='_blank'id='formatted-link'>Click here for B.Tech Fee Structure</a>",
+    "What is the eligibility criteria for admission in B.Tech program?": "You can check the eligibility criteria for admission in the B.Tech program by visiting the following link:<br><a href='https://gndec.ac.in/sites/default/files/Admission%20Process_0.pdf' target='_blank'id='formatted-link'>Click here for Admission Process</a>",
+    "What are the major subjects covered in the B.Tech syllabus?": "You can check the major subjects covered in the B.Tech syllabus by visiting the following link:<br><a href='https://cse.gndec.ac.in/sites/default/files/Scheme%20and%20syllabus%20of%202018%20batch.pdf' target='_blank'id='formatted-link'>Click here for B.Tech Syllabus</a>",
+    "Where can I find the sanctioned seats for the B.Tech program?": "You can find the details about the sanctioned seats for the B.Tech program by visiting the following link:<br><a href='https://gndec.ac.in/sites/default/files/Admission%20Process_0.pdf' target='_blank'id='formatted-link'>Click here for Sanctioned Seats Information</a>",
+    "Is there a Minor Engineering Degree in CSE?": "Yes, Guru Nanak Dev Engineering College (GNEC) offers a Minor Engineering Degree in Computer Science and Engineering (CSE) for students from other engineering branches. <br><a href='https://cse.gndec.ac.in/sites/default/files/MinorDegreeSyllabus.pdf' target='_blank'id='formatted-link'>Click here for Minor Degree Syllabus</a>",
+    "What are the MOOC courses offered for a Minor Degree?": "Guru Nanak Dev Engineering College (GNEC) offers various MOOC courses as part of the Minor Degree in Computer Science and Engineering (CSE). <br><a href='https://cse.gndec.ac.in/?q=node/18' target='_blank'id='formatted-link'>Click here to view the MOOC courses</a>",
+    "What are the MOOC courses offered for an Honour Degree?": "Guru Nanak Dev Engineering College (GNEC) offers various MOOC courses as part of the Honour Degree in Computer Science and Engineering (CSE). <br><a href='https://cse.gndec.ac.in/?q=node/19' target='_blank'id='formatted-link'>Click here to view the MOOC courses</a>",
+    "How can I check the faculty timetable?": "You can check the faculty timetable by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html' target='_blank'id='formatted-link'>Click here to view the faculty timetable</a>",
+    "Where can I find the timetable for UG & PG students?": "You can find the timetable for UG & PG students by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal_0.html' target='_blank'id='formatted-link'>Click here to view the UG & PG timetable</a>",
+    "How can I check the classroom-wise timetable?": "You can check the classroom-wise timetable by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal_0.html' target='_blank'id='formatted-link'>Click here to view the classroom-wise timetable</a>",
+    "What is the timetable for Prof. Parminder Singh (PS) or Parminder sir ?": "You can check the timetable for Prof. Parminder Singh (PS) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_1' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Parminder Singh</a>",
+    "What is the timetable for Prof. Amanpreet Singh Brar (ASB)?": "You can check the timetable for Prof. Amanpreet Singh Brar (ASB) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_2' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Amanpreet Singh Brar</a>",
+    "What is the timetable for Prof. Kiranjyoti (KJ) or kiran jyoti ?": "You can check the timetable for Prof. Kiranjyoti (KJ) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_3' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Kiranjyoti</a>",
+    "What is the timetable for Prof. Amandeep Kaur Sohal (AKS)?": "You can check the timetable for Prof. Amandeep Kaur Sohal (AKS) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_4' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Amandeep Kaur Sohal</a>",
+    "What is the timetable for Prof. Vivek Thapar (VT) or Vivek Thapar  sir?": "You can check the timetable for Prof. Vivek Thapar (VT) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_5' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Vivek Thapar</a>",
+    "What is the timetable for Prof. Manjot Kaur Gill (MKG) or Manjot Kaur  ?": "You can check the timetable for Prof. Manjot Kaur Gill (MKG) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_6' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Manjot Kaur Gill</a>",
+    "What is the timetable for Prof. Priyanka Arora (PA) or Priyanka Arora  or Priyanka mam?": "You can check the timetable for Prof. Priyanka Arora (PA) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_7' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Priyanka Arora</a>",
+    "What is the timetable for Prof. Daljit Singh (DS) or Daljit  sir?": "You can check the timetable for Prof. Daljit Singh (DS) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_8' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Daljit Singh</a>",
+    "What is the timetable for Prof. Kamaldeep Kaur (KD) or Kamaldeep?": "You can check the timetable for Prof. Kamaldeep Kaur (KD) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_9' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Kamaldeep Kaur</a>",
+    "What is the timetable for Prof. Inderjeet Singh (ISD) Inderjeet sir?": "You can check the timetable for Prof. Inderjeet Singh (ISD) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_10' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Inderjeet Singh</a>",
+    "What is the timetable for Prof. Manpreet Mand (MKM)anpreet kaur mam?": "You can check the timetable for Prof. Manpreet Mand (MKM) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_11' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Manpreet Mand</a>",
+    "What is the timetable for Prof. Diana Nagpal (DN) or daina mam?": "You can check the timetable for Prof. Diana Nagpal (DN) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_12' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Diana Nagpal</a>",
+    "What is the timetable for Prof. Shailja (SH) or Shailja mam?": "You can check the timetable for Prof. Shailja (SH) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_13' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Shailja</a>",
+    "What is the timetable for Prof. Jasdeep Kaur (JSK) or jasdeep mam?": "You can check the timetable for Prof. Jasdeep Kaur (JSK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_14' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Jasdeep Kaur</a>",
+    "What is the timetable for Prof. Hardeep Singh Kang (HSK) or Hardeep Singh?": "You can check the timetable for Prof. Hardeep Singh Kang (HSK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_15' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Hardeep Singh Kang</a>",
+    "What is the timetable for Prof. Kapil Sharma (KPS)?": "You can check the timetable for Prof. Kapil Sharma (KPS) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_16' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Kapil Sharma</a>",
+    "What is the timetable for Prof. Goldendeep Kaur (GLK) Goldendeep mam?": "You can check the timetable for Prof. Goldendeep Kaur (GLK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_17' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Goldendeep Kaur</a>",
+    "What is the timetable for Prof. Amit Jain (AJ) Amit sir?": "You can check the timetable for Prof. Amit Jain (AJ) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_18' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Amit Jain</a>",
+    "What is the timetable for Prof. Kuljit Kaur (KK)uljit mam?": "You can check the timetable for Prof. Kuljit Kaur (KK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_19' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Kuljit Kaur</a>",
+    "What is the timetable for Prof. Harkomalpreet Kaur (HK) or Harkomalpreet mam?": "You can check the timetable for Prof. Harkomalpreet Kaur (HK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_20' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Harkomalpreet Kaur</a>",
+    "What is the timetable for Prof. Satinderpal Singh (SPS) or Satinderpal?": "You can check the timetable for Prof. Satinderpal Singh (SPS) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_21' target='_blank'>Click here to view the timetable for Prof. Satinderpal Singh</a>",
+    "What is the timetable for Prof. Jaswant Singh (JST) jaswant sir?": "You can check the timetable for Prof. Jaswant Singh (JST) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_22' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Jaswant Singh</a>",
+    "What is the timetable for Prof. Jagdeep Kaur (JDK) or jagdeep mam?": "You can check the timetable for Prof. Jagdeep Kaur (JDK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_23' target='_blank'>Click here to view the timetable for Prof. Jagdeep Kaur</a>",
+    "What is the timetable for Prof. Meetali (MT) Meetali mam?": "You can check the timetable for Prof. Meetali (MT) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_24' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Meetali</a>",
+    "What is the timetable for Prof. Lakhvir Kaur (LKG)?": "You can check the timetable for Prof. Lakhvir Kaur (LKG) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_25' target='_blank'>Click here to view the timetable for Prof. Lakhvir Kaur</a>",
+    "What is the timetable for Prof. Maninder Kaur (MK)?": "You can check the timetable for Prof. Maninder Kaur (MK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_26' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Maninder Kaur</a>",
+    "What is the timetable for Prof. Kamaljeet Kaur (KJK)?": "You can check the timetable for Prof. Kamaljeet Kaur (KJK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_27' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Kamaljeet Kaur</a>",
+    "What is the timetable for Prof. Paramveer Kaur (PK)?": "You can check the timetable for Prof. Paramveer Kaur (PK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_28' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Paramveer Kaur</a>",
+    "What is the timetable for Prof. Palak Sood (PLS)?": "You can check the timetable for Prof. Palak Sood (PLS) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_29' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Palak Sood</a>",
+    "What is the timetable for Prof. Harshim (HSM)?": "You can check the timetable for Prof. Harshim (HSM) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_30' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Harshim</a>",
+    "What is the timetable for Prof. Khushi (KH)?": "You can check the timetable for Prof. Khushi (KH) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_31' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Khushi</a>",
+    "What is the timetable for Prof. Preetkamal Singh (PKS)?": "You can check the timetable for Prof. Preetkamal Singh (PKS) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_32' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Preetkamal Singh</a>",
+    "What is the timetable for Prof. Sita Rani (SR)?": "You can check the timetable for Prof. Sita Rani (SR) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_33' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Sita Rani</a>",
+    "What is the timetable for Prof. Taman Kumar (TK)?": "You can check the timetable for Prof. Taman Kumar (TK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_34' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Taman Kumar</a>",
+    "What is the timetable for Prof. Himani Sharma (HS)  or Himani mam - IT Department  or himani mam? or himni sharma mam": "You can check the timetable for Prof. Himani Sharma (HS) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_33' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Himani Sharma</a>",
+    "What is the timetable for Prof. Jasleen Kaur (JK) - IT Department?": "You can check the timetable for Prof. Jasleen Kaur (JK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_34' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Jasleen Kaur</a>",
+    "What is the timetable for Prof. Palwinder Kaur (PK) - IT Department or Palwinder mam?": "You can check the timetable for Prof. Palwinder Kaur (PK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_35' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Palwinder Kaur</a>",
+    "What is the timetable for Prof. Manjot Singh Bedi (MSB) - ME Department?": "You can check the timetable for Prof. Manjot Singh Bedi (MSB) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_36' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Manjot Singh Bedi</a>",
+    "What is the timetable for Prof. Bhupinder Singh Dhillon (BSD) - ME Department?": "You can check the timetable for Prof. Bhupinder Singh Dhillon (BSD) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_37' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Bhupinder Singh Dhillon</a>",
+    "What is the timetable for Prof. Prem Singh (PRS) - ME Department or Prem or Prem sir? ": "You can check the timetable for Prof. Prem Singh (PRS) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_38' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Prem Singh</a>",
+    "What is the timetable for Prof. Sukhwinderpal Singh (SPS) - CE Department?": "You can check the timetable for Prof. Sukhwinderpal Singh (SPS) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT1%20Jan-June%202025_teachers_days_horizontal.html#table_39' target='_blank'id='formatted-link'>Click here to view the timetable for Prof. Sukhwinderpal Singh</a>",
+    "What is the timetable for D2 CS A?": "You can check the timetable for D2 CS A by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_1' target='_blank'id='formatted-link'>Click here to view the timetable for D2 CS A</a>",
+    "What is the timetable for D2 CS B?": "You can check the timetable for D2 CS B by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_8' target='_blank'id='formatted-link'>Click here to view the timetable for D2 CS B</a>",
+    "What is the timetable for D2 CS C?": "You can check the timetable for D2 CS C by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_15' target='_blank'id='formatted-link'>Click here to view the timetable for D2 CS C</a>",
+    "What is the timetable for D2 CS D?": "You can check the timetable for D2 CS D by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_22' target='_blank'id='formatted-link'>Click here to view the timetable for D2 CS D</a>",
+    "What is the timetable for D2 CS E?": "You can check the timetable for D2 CS E by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_29' target='_blank'id='formatted-link'>Click here to view the timetable for D2 CS E</a>",
+    "What is the timetable for D3 CS A?": "You can check the timetable for D3 CS A by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_34' target='_blank'id='formatted-link'>Click here to view the timetable for D3 CS A</a>",
+    "What is the timetable for D3 CS B?": "You can check the timetable for D3 CS B by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_45' target='_blank'id='formatted-link'>Click here to view the timetable for D3 CS B</a>",
+    "What is the timetable for D3 CS C?": "You can check the timetable for D3 CS C by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_56' target='_blank'id='formatted-link'>Click here to view the timetable for D3 CS C</a>",
+    "What is the timetable for D4 CS A?": "You can check the timetable for D4 CS A by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_67' target='_blank'id='formatted-link'>Click here to view the timetable for D4 CS A</a>",
+    "What is the timetable for D4 CS B?": "You can check the timetable for D4 CS B by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_76' target='_blank'id='formatted-link'>Click here to view the timetable for D4 CS B</a>",
+    "What is the timetable for D4 CS C?": "You can check the timetable for D4 CS C by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_85' target='_blank'id='formatted-link'>Click here to view the timetable for D4 CS C</a>",
+    "What is the timetable for M1?": "You can check the timetable for M1 by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_94' target='_blank'id='formatted-link'>Click here to view the timetable for M1</a>",
+    "What is the timetable for M3?": "You can check the timetable for M3 by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_97' target='_blank'id='formatted-link'>Click here to view the timetable for M3</a>",
+    "What is the timetable for D1 CSE MC?": "You can check the timetable for D1 CSE MC by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_100' target='_blank'id='formatted-link'>Click here to view the timetable for D1 CSE MC</a>",
+    "What is the timetable for D1 CS A (LKG)?": "You can check the timetable for D1 CS A (LKG) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_123' target='_blank'id='formatted-link'>Click here to view the timetable for D1 CS A (LKG)</a>",
+    "What is the timetable for D1 CS B (GLK)?": "You can check the timetable for D1 CS B (GLK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_128' target='_blank'id='formatted-link'>Click here to view the timetable for D1 CS B (GLK)</a>",
+    "What is the timetable for D1 CS C (PLS)?": "You can check the timetable for D1 CS C (PLS) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_133' target='_blank'id='formatted-link'>Click here to view the timetable for D1 CS C (PLS)</a>",
+    "What is the timetable for D1 CS D (KJK)?": "You can check the timetable for D1 CS D (KJK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_138' target='_blank'id='formatted-link'>Click here to view the timetable for D1 CS D (KJK)</a>",
+    "What is the timetable for D1 CS E (SR)?": "You can check the timetable for D1 CS E (SR) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_143' target='_blank'id='formatted-link'>Click here to view the timetable for D1 CS E (SR)</a>",
+    "What is the timetable for D1 CS F (MT)?": "You can check the timetable for D1 CS F (MT) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_148' target='_blank'id='formatted-link'>Click here to view the timetable for D1 CS F (MT)</a>",
+    "What is the timetable for D1 ME A (KPS)?": "You can check the timetable for D1 ME A (KPS) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_153' target='_blank'id='formatted-link'>Click here to view the timetable for D1 ME A (KPS)</a>",
+    "What is the timetable for D1 ME B (JST)?": "You can check the timetable for D1 ME B (JST) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_158' target='_blank'id='formatted-link'>Click here to view the timetable for D1 ME B (JST)</a>",
+    "What is the timetable for D1 EE A (MK)?": "You can check the timetable for D1 EE A (MK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_163' target='_blank'id='formatted-link'>Click here to view the timetable for D1 EE A (MK)</a>",
+    "What is the timetable for D1 EE B (PK)?": "You can check the timetable for D1 EE B (PK) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_168' target='_blank'id='formatted-link'>Click here to view the timetable for D1 EE B (PK)</a>",
+    "What is the timetable for BCOM?": "You can check the timetable for BCOM by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_years_days_horizontal%20%282%29.html#table_173' target='_blank'id='formatted-link'>Click here to view the timetable for BCOM</a>",
+    "What is the timetable for S215?": "You can check the timetable for S215 by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_1' target='_blank'id='formatted-link'>Click here to view the timetable for S215</a>",
+    "What is the timetable for S216?": "You can check the timetable for S216 by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_2' target='_blank'id='formatted-link'>Click here to view the timetable for S216</a>",
+    "What is the timetable for S217?": "You can check the timetable for S217 by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_3' target='_blank'id='formatted-link'>Click here to view the timetable for S217</a>",
+    "What is the timetable for S218?": "You can check the timetable for S218 by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_4' target='_blank'id='formatted-link'>Click here to view the timetable for S218</a>",
+    "What is the timetable for S219?": "You can check the timetable for S219 by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_5' target='_blank'id='formatted-link'>Click here to view the timetable for S219</a>",
+    "What is the timetable for G17?": "You can check the timetable for G17 by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_6' target='_blank'id='formatted-link'>Click here to view the timetable for G17</a>",
+    "What is the timetable for G18?": "You can check the timetable for G18 by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_7' target='_blank'id='formatted-link'>Click here to view the timetable for G18</a>",
+    "What is the timetable for F106?": "You can check the timetable for F106 by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_25' target='_blank'id='formatted-link'>Click here to view the timetable for F106</a>",
+    "What is the timetable for S213?": "You can check the timetable for S213 by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_26' target='_blank'id='formatted-link'>Click here to view the timetable for S213</a>",
+    "What is the timetable for G11A?": "You can check the timetable for G11A by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_27' target='_blank'id='formatted-link'>Click here to view the timetable for G11A</a>",
+    "What is the timetable for SL-I LAB?": "You can check the timetable for SL-I LAB by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_8' target='_blank'id='formatted-link'>Click here to view the timetable for SL-I LAB</a>",
+    "What is the timetable for SL-II LAB?": "You can check the timetable for SL-II LAB by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_9' target='_blank'id='formatted-link'>Click here to view the timetable for SL-II LAB</a>",
+    "What is the timetable for SL-III LAB?": "You can check the timetable for SL-III LAB by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_10' target='_blank'id='formatted-link'>Click here to view the timetable for SL-III LAB</a>",
+    "What is the timetable for SL-IV LAB?": "You can check the timetable for SL-IV LAB by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_14' target='_blank'id='formatted-link'>Click here to view the timetable for SL-IV LAB</a>",
+    "What is the timetable for OS LAB?": "You can check the timetable for OS LAB by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_11' target='_blank'id='formatted-link'>Click here to view the timetable for OS LAB</a>",
+    "What is the timetable for R LAB?": "You can check the timetable for R LAB by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_12' target='_blank'id='formatted-link'>Click here to view the timetable for R LAB</a>",
+    "What is the timetable for PL LAB?": "You can check the timetable for PL LAB by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_13' target='_blank'id='formatted-link'>Click here to view the timetable for PL LAB</a>",
+    "What is the timetable for CE COMP LAB?": "You can check the timetable for CE COMP LAB by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_16' target='_blank'id='formatted-link'>Click here to view the timetable for CE COMP LAB</a>",
+    "What is the timetable for ECE COMP LAB?": "You can check the timetable for ECE COMP LAB by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_17' target='_blank'id='formatted-link'>Click here to view the timetable for ECE COMP LAB</a>",
+    "What is the timetable for CGL LAB?": "You can check the timetable for CGL LAB by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_18' target='_blank'id='formatted-link'>Click here to view the timetable for CGL LAB</a>",
+    "What is the timetable for EE COMP LAB?": "You can check the timetable for EE COMP LAB by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_19' target='_blank'id='formatted-link'>Click here to view the timetable for EE COMP LAB</a>",
+    "What is the timetable for CAD LAB?": "You can check the timetable for CAD LAB by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_20' target='_blank'id='formatted-link'>Click here to view the timetable for CAD LAB</a>",
+    "What is the timetable for HW LAB (IT Dept.)?": "You can check the timetable for HW LAB (IT Dept.) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_21' target='_blank'id='formatted-link'>Click here to view the timetable for HW LAB (IT Dept.)</a>",
+    "What is the timetable for DBMS LAB (IT Dept.)?": "You can check the timetable for DBMS LAB (IT Dept.) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_22' target='_blank'id='formatted-link'>Click here to view the timetable for DBMS LAB (IT Dept.)</a>",
+    "What is the timetable for OS LAB (IT Dept.)?": "You can check the timetable for OS LAB (IT Dept.) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_23' target='_blank'id='formatted-link'>Click here to view the timetable for OS LAB (IT Dept.)</a>",
+    "What is the timetable for Comp. Lab (MBA)?": "You can check the timetable for Comp. Lab (MBA) by visiting the provided link. <br><a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_24' target='_blank'id='formatted-link'>Click here to view the timetable for Comp. Lab (MBA)</a>",
+    "What is the format of M. Tech (project report format) or M. Tech (project report format)?":"You can check the project report format for M. Tech by visiting the provided link.<br><a href='https://cse.gndec.ac.in/sites/default/files/MTech_Project_Report_Format1.pdf' target='_blank' id='formatted-link'>Click here to view the M. Tech project report format</a>",
+    "What is the format of M. Tech (synopsis format) or M. Tech (synopsis format)?":"You can check the synopsis format for M. Tech by visiting the provided link.<br><a href='https://cse.gndec.ac.in/sites/default/files/MTech_Project_Synopsis_Format.pdf' target='_blank' id='formatted-link'>Click here to view the M. Tech synopsis format</a>",
+    "What is the fee structure of M. Tech or fee structure of M. Tech?":"You can check the fee structure for M. Tech by visiting the provided link.<br><a href='https://admission.gndec.ac.in/Fee_Structure.php' target='_blank' id='formatted-link'>Click here to view the M. Tech fee structure</a>",
+    "What is the scheme of M. Tech or scheme of M. Tech?":"You can check the scheme for M. Tech by visiting the provided link.<br><a href='https://cse.gndec.ac.in/sites/default/files/Mtech%20scheme%202019.pdf' target='_blank' id='formatted-link'>Click here to view the M. Tech scheme</a>",
+    "What is the syllabus of M. Tech or syllabus of M. Tech?":"You can check the syllabus for M. Tech by visiting the provided link.<br><a href='https://cse.gndec.ac.in/sites/default/files/MTech_Syllabus_complete_16_04_2021.pdf' target='_blank' id='formatted-link'>Click here to view the M. Tech syllabus</a>",
+    "What is the syllabus of B. Tech or syllabus of B. Tech?":"You can check the syllabus for B. Tech by visiting the provided link.<br><a href='https://cse.gndec.ac.in/sites/default/files/%5B4%5D%20%20Syllabus%20B.Tech_.%20%282018%20batch%20onwards%29%20kk%20Updated%20COs%20-.pdf' target='_blank' id='formatted-link'>Click here to view the B. Tech syllabus</a>",
+    "What is the fee structure of B. Tech or fee structure of B. Tech?": "You can check the fee structure for B. Tech by visiting the provided link.<br><a href='https://admission.gndec.ac.in/Fee_Structure.php' target='_blank' id='formatted-link'>Click here to view the B. Tech fee structure</a>",
+    "What is the admission process of B. Tech or what is the process for admission of bteh?": "You can check the admission process for B. Tech by visiting the provided link.<br><a href='https://admission.gndec.ac.in/' target='_blank' id='formatted-link'>Click here to view the B. Tech admission process</a>",
+    "What is the admission process of M. Tech or what is the process for admission? mtech": "You can check the admission process for B. Tech by visiting the provided link.<br><a href='https://admission.gndec.ac.in/' target='_blank' id='formatted-link'>Click here to view the B. Tech admission process</a>",
+    "What are the documents required for admission in B. Tech or document required for btech admission?": "You can check the list of required documents for B. Tech admission by visiting the provided link.<br><a href='https://admission.gndec.ac.in/documents/checklist.pdf' target='_blank' id='formatted-link'>Click here to view the required documents</a>",
+
+    "What is the link to the Guru Portal?": "You can access the Guru Portal by clicking the link below.<br><a href='https://guru.gndec.ac.in/guru/' target='_blank' id='formatted-link'>Click here to visit the Guru Portal</a>",
+    "How can I access the Guru Portal?": "To access the Guru Portal, visit the following link.<br><a href='https://guru.gndec.ac.in/guru/' target='_blank' id='formatted-link'>Click here to open Guru Portal</a>",
+    "Where can I find the Guru Portal?": "You can visit the Guru Portal through the link provided below.<br><a href='https://guru.gndec.ac.in/guru/' target='_blank' id='formatted-link'>Click here for Guru Portal</a>",
+    "Guru Portal login link?": "To log in to the Guru Portal, use the link below.<br><a href='https://guru.gndec.ac.in/guru/' target='_blank' id='formatted-link'>Click here to login to Guru Portal</a>",
+   "Official website of Guru Portal?": "The official website for Guru Portal is available at the following link.<br><a href='https://guru.gndec.ac.in/guru/' target='_blank' id='formatted-link'>Click here for Guru Portal</a>",
+   "What is the link to the Academic Portal of GNDEC?": "You can access the Academic Portal by clicking the link below.<br><a href='https://academics.gndec.ac.in/' target='_blank' id='formatted-link'>Click here to visit the Academic Portal</a>",
+"How can I access the GNDEC Academic Portal?": "To access the Academic Portal, visit the following link.<br><a href='https://academics.gndec.ac.in/' target='_blank' id='formatted-link'>Click here to open Academic Portal</a>",
+"Where can I find the Academic Portal of GNDEC?": "You can visit the Academic Portal through the link provided below.<br><a href='https://academics.gndec.ac.in/' target='_blank' id='formatted-link'>Click here for Academic Portal</a>",
+"GNDEC Academic Portal login link?": "To log in to the Academic Portal, use the link below.<br><a href='https://academics.gndec.ac.in/' target='_blank' id='formatted-link'>Click here to login to Academic Portal</a>",
+"Official website of GNDEC Academic Portal?": "The official website for the GNDEC Academic Portal is available at the following link.<br><a href='https://academics.gndec.ac.in/' target='_blank' id='formatted-link'>Click here for Academic Portal</a>",
+"What is the link to the Training and Placement Cell of GNDEC?": "You can access the Training and Placement Cell (T&P) portal by clicking the link below.<br><a href='https://www.tnpgndec.com/' target='_blank' id='formatted-link'>Click here to visit the T&P Portal</a>",
+
+  "How can I access the GNDEC T&P Portal?": "To access the Training and Placement (T&P) portal, visit the following link.<br><a href='https://www.tnpgndec.com/' target='_blank' id='formatted-link'>Click here to open T&P Portal</a>",
+
+  "Where can I find the GNDEC Training and Placement Cell portal?": "You can visit the Training and Placement (T&P) portal through the link provided below.<br><a href='https://www.tnpgndec.com/' target='_blank' id='formatted-link'>Click here for T&P Portal</a>",
+
+  "GNDEC T&P Cell website?": "To explore the Training and Placement Cell (T&P) at GNDEC, visit the official website.<br><a href='https://www.tnpgndec.com/' target='_blank' id='formatted-link'>Click here for T&P Cell</a>",
+  "T&P Cell website?": "To explore the Training and Placement Cell (T&P) at GNDEC, visit the official website.<br><a href='https://www.tnpgndec.com/' target='_blank' id='formatted-link'>Click here for T&P Cell</a>",
+
+  "Official website of GNDEC Training & Placement Cell?": "The official website for the GNDEC Training & Placement (T&P) Cell is available at the following link.<br><a href='https://www.tnpgndec.com/' target='_blank' id='formatted-link'>Click here for T&P Portal</a>",
+
+"What is the scheme for B.Tech at GNDEC?": "You can check the official B.Tech scheme at GNDEC by visiting the link below.<br><a href='https://cse.gndec.ac.in/sites/default/files/Scheme_2018_onwards%20only%20scheme.pdf' target='_blank' id='formatted-link'>Click here to view the B.Tech Scheme</a>",
+
+  "Where can I find the B.Tech scheme of GNDEC?": "The official B.Tech scheme for GNDEC is available at the following link.<br><a href='https://cse.gndec.ac.in/sites/default/files/Scheme_2018_onwards%20only%20scheme.pdf' target='_blank' id='formatted-link'>Click here for B.Tech Scheme</a>",
+
+  "GNDEC B.Tech curriculum or scheme?": "To access the official B.Tech curriculum and scheme at GNDEC, click the link below.<br><a href='https://cse.gndec.ac.in/sites/default/files/Scheme_2018_onwards%20only%20scheme.pdf' target='_blank' id='formatted-link'>View B.Tech Scheme</a>",
+
+  "How to check the B.Tech scheme at GNDEC?": "You can view the GNDEC B.Tech scheme by clicking the following link.<br><a href='https://cse.gndec.ac.in/sites/default/files/Scheme_2018_onwards%20only%20scheme.pdf' target='_blank' id='formatted-link'>Check B.Tech Scheme</a>",
+
+  "B.Tech scheme?": "To find the B.Tech scheme and syllabus for GNDEC, visit this link.<br><a href='https://cse.gndec.ac.in/sites/default/files/Scheme_2018_onwards%20only%20scheme.pdf' target='_blank' id='formatted-link'>Click here for B.Tech Scheme</a>",
+
+  "GNDEC B.Tech course structure?": "The official B.Tech course structure and scheme for GNDEC can be accessed through the link below.<br><a href='https://cse.gndec.ac.in/sites/default/files/Scheme_2018_onwards%20only%20scheme.pdf' target='_blank' id='formatted-link'>Check B.Tech Course Scheme</a>"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+}
