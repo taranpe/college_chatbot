@@ -6,7 +6,6 @@ const axios = require("axios");
 const path = require("path");
 const fs = require("fs");
 const natural = require("natural");
-const gtts = require("gtts");
 
 dotenv.config();
 const app = express();
@@ -63,44 +62,20 @@ async function fetchBotReply(question) {
     }
 }
 
-function generateSpeech(replyText) {
-    return new Promise((resolve) => {
-        const gttsSpeech = new gtts(replyText, "en");
-        const audioFileName = `response_${Date.now()}.mp3`;
-        const audioPath = path.join(__dirname, "public", audioFileName);
-
-        gttsSpeech.save(audioPath, (err) => {
-            if (err) {
-                console.error("❌ TTS Error:", err);
-                resolve(null);
-            }
-            resolve(`/public/${audioFileName}`);
-        });
-    });
-}
-
 app.post("/api/chat", async (req, res) => {
     const { question } = req.body;
     console.log("User Question:", question);
 
     const predefinedResponse = getPredefinedResponse(question);
     if (predefinedResponse) {
-        return res.json({ reply: predefinedResponse, audio: null });
+        return res.json({ reply: predefinedResponse });
     }
 
-    const [rasaReply, geminiReply] = await Promise.all([
-        fetchRasaResponse(question),
-        fetchBotReply(question),
-    ]);
+    const [rasaReply, geminiReply] = await Promise.all([fetchRasaResponse(question), fetchBotReply(question)]);
 
     const reply = rasaReply || geminiReply;
     console.log("🤖 Final Response:", reply);
-    res.json({ reply, audio: null });
-
-    // Generate speech asynchronously
-    generateSpeech(reply).then((audioUrl) => {
-        console.log("🎤 Speech Generated:", audioUrl);
-    });
+    res.json({ reply });
 });
 
 app.get("/", (req, res) => {
