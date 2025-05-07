@@ -2,6 +2,8 @@
     
     "who is the hod of cse or computer science and enginerring department or tell me the hod of cse": "The HOD of the CSE department is Dr. Kiran Jyoti.",
     " the hod of cse department" :"The HOD of the CSE department is Dr. Kiran Jyoti.",
+    " who is the head of department of cse department" :"The HOD of the CSE department is Dr. Kiran Jyoti.",
+
     "list of faculity details or Please provide the faculty details or information or Can you retrieve the faculty details?": "You can find the faculty details at the following link: <a href='https://gndec.ac.in/faculty/?deptt=15' target='_blank'>Faculty Details</a>",
     "list of faculity details ": "You can find the faculty details at the following link: <a href='https://gndec.ac.in/faculty/?deptt=15' target='_blank'>Faculty Details</a>",
 
@@ -191,7 +193,21 @@
   "new instruction for tr-103": "Here are the new instructions for TR-102 and TR-103: <a href='https://cse.gndec.ac.in/sites/default/files/IMG-20250502-WA0002.jpg' target='_blank'>Click here to view</a>",
   "new instruction for tr-102 or tr-103": "Here are the new instructions for TR-102 and TR-103: <a href='https://cse.gndec.ac.in/sites/default/files/IMG-20250502-WA0002.jpg' target='_blank'>Click here to view</a>",
   "four week training program on prompt engineering": "Here is the brochure for the Four Week Training Program on Prompt Engineering: <a href='https://cse.gndec.ac.in/sites/default/files/Brochure%20-%20Prompt%20Engineering%20Training' target='_blank'>Click here to view</a>",
-  "time table of departmental library": "Here is the timetable for the Departmental Library: <a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_15' target='_blank'>Click here to view</a>"
+  "time table of departmental library": "Here is the timetable for the Departmental Library: <a href='https://cse.gndec.ac.in/sites/default/files/TT%20Jan-June%202025_rooms_days_horizontal%20%282%29.html#table_15' target='_blank'>Click here to view</a>",
+  "syllabus for mst 2nd": "You can view the syllabus and date sheet for MST/MSE 2nd semester here: <a href='https://cse.gndec.ac.in/sites/default/files/3.%20datesheet_2.pdf' target='_blank'>Click here to view</a>",
+  "mst dtesheet 2nd ": "Here’s the syllabus/date sheet for MST 2nd semester: <a href='https://cse.gndec.ac.in/sites/default/files/3.%20datesheet_2.pdf' target='_blank'>Click here</a>",
+  "mse 2nd datehsheet": "MSE 2nd semester syllabus and exam dates can be seen here: <a href='https://cse.gndec.ac.in/sites/default/files/3.%20datesheet_2.pdf' target='_blank'>View Now</a>",
+  "datesheet for mst mse ": "Here is the official datesheet for MST/MSE 2nd semester: <a href='https://cse.gndec.ac.in/sites/default/files/3.%20datesheet_2.pdf' target='_blank'>Click here</a>",
+  "mst mse syllabus second semester": "To access the MST/MSE syllabus or date sheet for 2nd semester, <a href='https://cse.gndec.ac.in/sites/default/files/3.%20datesheet_2.pdf' target='_blank'>click here</a>",
+  "interdisciplinary training on data analytics using r": "You can view the brochure for the Interdisciplinary Training on Data Analytics using R here: <a href='https://cse.gndec.ac.in/sites/default/files/Brochure%20-%20Four-Week%20Interdisciplinary%20Training%20on%20Data%20Analytics%20using%20R.pdf' target='_blank'>Click here to view</a>",
+  
+  "data analytics using r brochure": "Here is the brochure for the Data Analytics using R training: <a href='https://cse.gndec.ac.in/sites/default/files/Brochure%20-%20Four-Week%20Interdisciplinary%20Training%20on%20Data%20Analytics%20using%20R.pdf' target='_blank'>Click here</a>",
+  
+  "four week training on r": "Check out the 4-week Interdisciplinary Training on Data Analytics using R brochure here: <a href='https://cse.gndec.ac.in/sites/default/files/Brochure%20-%20Four-Week%20Interdisciplinary%20Training%20on%20Data%20Analytics%20using%20R.pdf' target='_blank'>View PDF</a>",
+  
+  "r data analytics course brochure": "You can find the course brochure for Data Analytics using R here: <a href='https://cse.gndec.ac.in/sites/default/files/Brochure%20-%20Four-Week%20Interdisciplinary%20Training%20on%20Data%20Analytics%20using%20R.pdf' target='_blank'>Click here</a>",
+  
+  "interdisciplinary brochure r training": "Here’s the detailed brochure for the interdisciplinary training on R: <a href='https://cse.gndec.ac.in/sites/default/files/Brochure%20-%20Four-Week%20Interdisciplinary%20Training%20on%20Data%20Analytics%20using%20R.pdf' target='_blank'>Click to open</a>"
 
 
 
